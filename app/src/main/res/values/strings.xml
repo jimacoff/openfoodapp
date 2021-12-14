@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpenfoodNetworkUk</string>
+    <string name="error_message">Error occurred, please check your internet connecion.</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Error! Give Permission</string>
+    <string name="exit_app" translatable="false">Do you want to  exit this application?</string>
+</resources>
